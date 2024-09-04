@@ -1,0 +1,11 @@
+paypal:
+  client-id: AbYIqyJWUvZDaMuInhQU5vVFLnUT69KDCHCmbqet3qnhmrdoDtEtEjdLKCaDed9rh_3q2ihnxYaIg4to
+  client-secret: EGHuvUIJNwYnYRyXFk0ftxcx7lo4IVygvTcdxy3srddBF3gYyoYuqfqjDuerkZnK7y-ohVn8nmjrt6_f
+  mode: sandbox
+
+  # use live for live payments
+
+
+
+  
+
