@@ -1,5 +1,5 @@
 paypal:
-  client-id: CLIENT_ID # ENTER YOUR CLIENT ID HERE
+  client-id: CLIENT_ID # ENTER YOUR CLIENT ID HERE!!
   client-secret: CLIENT_SECRET # ENTER YOUR CLIENT SECRET HERE
   mode: sandbox
 
